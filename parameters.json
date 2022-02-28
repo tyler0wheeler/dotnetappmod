@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "servers_parts_550489_name": {
+            "value": null
+        },
+        "sites_parts_func_550489_name": {
+            "value": null
+        },
+        "virtualMachines_WebVM_name": {
+            "value": null
+        },
+        "publicIPAddresses_WebVM_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_WebVM_nic_name": {
+            "value": null
+        },
+        "storageAccounts_parts550489_name": {
+            "value": null
+        },
+        "virtualMachines_SqlServer2008_name": {
+            "value": null
+        },
+        "services_parts_dms_550489_name": {
+            "value": null
+        },
+        "networkSecurityGroups_WebVM_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_SqlServer2008_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_SqlServer2008_nic_name": {
+            "value": null
+        },
+        "serverfarms_hands_on_lab_550489_asp_ln_fn_name": {
+            "value": null
+        },
+        "networkSecurityGroups_SqlServer2008_nsg_name": {
+            "value": null
+        },
+        "virtualNetworks_hands_on_lab_550489_vnet_name": {
+            "value": null
+        },
+        "workspaces_parts_workspace_550489_name": {
+            "value": null
+        },
+        "networkInterfaces_NIC_ddhkzhuqeusp4cyegszanh34_name": {
+            "value": null
+        }
+    }
+}
